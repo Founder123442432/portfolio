@@ -29,7 +29,7 @@ export default function ProjectsPage() {
     { id: "nextJS", name: "nextJS", icon: Smartphone },
 
   ];
-
+/*projects */
   const projects = [
     {
       id: 1,
@@ -69,7 +69,7 @@ export default function ProjectsPage() {
     },
     {
       id: 4,
-      title: "keeply",
+      title: "Keeply",
       description: "Keeply is a bookmarking app that allows users to save and organize their favorite websites. With Keeply, users can categorize, search, and access their saved links anytime, anywhere.",
       category: "nextJS",
       image: "/sc2.png",
