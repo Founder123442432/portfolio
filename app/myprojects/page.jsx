@@ -77,7 +77,19 @@ export default function ProjectsPage() {
       github: "https://github.com/Founder123442432/Keeply",
       live: "https://keeply-mlvu.vercel.app/",
       status: "Completed",
-      year: "2023"
+      year: "2025"
+    },
+     {
+      id: 5,
+      title: "slumbersphere",
+      description: "SlumberSphere is a web app that helps people fall asleep through curated soundscapes and ambient audio. With a dark interfacedesigned for relaxation, the app creates personalized sleepenvironments to promote better rest and peaceful nights.",
+      category: "nextJS",
+      image: "/slumbersphere.png",
+      technologies: ["Next.js", "Framer Motion", "tailwind", ],
+      github: "https://github.com/Founder123442432/slumbersphere",
+      live: "https://slumbersphere.vercel.app/",
+      status: "In Progress",
+      year: "2025"
     },
     
   ];
